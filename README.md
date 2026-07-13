@@ -265,8 +265,8 @@ potato-disease-classification/
 
 ## 👨‍💻 Author
 
-**Ritik Gupta**  
-B.Tech in EEE | Full-stack & ML Developer | 2026 Graduate
+**Priya Chauhan**  
+
 
 ---
 
